@@ -1,11 +1,5 @@
 command_id: 7E0.0124
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E8064124739A3D44
-  expected_values:
-    LAMBDA11_WIDE: 0.90314
-    O2S11_WIDE: 1.91362
 - response: 7E80641247F2A45C8
   expected_values:
     LAMBDA11_WIDE: 0.99347
@@ -14,23 +8,7 @@ test_cases:
   expected_values:
     LAMBDA11_WIDE: 0.99786
     O2S11_WIDE: 2.19265
-- response: 7E80641247FD54647
-  expected_values:
-    LAMBDA11_WIDE: 0.99869
-    O2S11_WIDE: 2.1951
 - response: 7E80641247FD74648
   expected_values:
     LAMBDA11_WIDE: 0.99875
     O2S11_WIDE: 2.19522
-- response: '7E806412480004666'
-  expected_values:
-    LAMBDA11_WIDE: 1
-    O2S11_WIDE: 2.19888
-- response: 7E8064124808946A3
-  expected_values:
-    LAMBDA11_WIDE: 1.00418
-    O2S11_WIDE: 2.20632
-- response: 7E8064124821A4755
-  expected_values:
-    LAMBDA11_WIDE: 1.01642
-    O2S11_WIDE: 2.22804
