@@ -1,6 +1,6 @@
 command_id: 7E0.0124
 test_cases:
-- response: 7E80641247FBA4633
-  expected_values:
+- expected_values:
     LAMBDA11_WIDE: 0.99786
     O2S11_WIDE: 2.19265
+  response: 7E80641247FBA4633
