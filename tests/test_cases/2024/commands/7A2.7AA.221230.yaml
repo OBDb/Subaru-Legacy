@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.221230
+test_cases:
+- expected_values:
+    SUBARU_STOP_LIGHT_SWITCH: 255
+  response: 7AA04621230FF
