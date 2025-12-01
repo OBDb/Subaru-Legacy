@@ -4,6 +4,9 @@ test_cases:
     SUBARU_EWG_VALVE_ACTUAL_POSITION: 2.77119
   response: 7AA056210D451BC
 - expected_values:
+    SUBARU_EWG_VALVE_ACTUAL_POSITION: 10.32685
+  response: 7AA056210D48217
+- expected_values:
     SUBARU_EWG_VALVE_ACTUAL_POSITION: 14.9778
   response: 7AA056210D49FDB
 - expected_values:

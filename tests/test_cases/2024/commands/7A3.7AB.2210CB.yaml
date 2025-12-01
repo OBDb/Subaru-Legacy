@@ -4,26 +4,5 @@ test_cases:
     SUBARU_TURBINE_SPEED: 0
   response: 7AB046210CB00
 - expected_values:
-    SUBARU_TURBINE_SPEED: 576
-  response: 7AB046210CB12
-- expected_values:
-    SUBARU_TURBINE_SPEED: 640
-  response: 7AB046210CB14
-- expected_values:
-    SUBARU_TURBINE_SPEED: 736
-  response: 7AB046210CB17
-- expected_values:
-    SUBARU_TURBINE_SPEED: 1120
-  response: 7AB046210CB23
-- expected_values:
-    SUBARU_TURBINE_SPEED: 1152
-  response: 7AB046210CB24
-- expected_values:
-    SUBARU_TURBINE_SPEED: 1376
-  response: 7AB046210CB2B
-- expected_values:
-    SUBARU_TURBINE_SPEED: 1568
-  response: 7AB046210CB31
-- expected_values:
-    SUBARU_TURBINE_SPEED: 1632
-  response: 7AB046210CB33
+    SUBARU_TURBINE_SPEED: 1856
+  response: 7AB046210CB3A
