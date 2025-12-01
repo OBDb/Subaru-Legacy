@@ -4,26 +4,11 @@ test_cases:
     SUBARU_MONITOR_4: 699
   response: 7AA056213170AEC
 - expected_values:
+    SUBARU_MONITOR_4: 702.5
+  response: 7AA056213170AFA
+- expected_values:
     SUBARU_MONITOR_4: 704.75
   response: 7AA056213170B03
 - expected_values:
-    SUBARU_MONITOR_4: 706.25
-  response: 7AA056213170B09
-- expected_values:
-    SUBARU_MONITOR_4: 706.5
-  response: 7AA056213170B0A
-- expected_values:
-    SUBARU_MONITOR_4: 709
-  response: 7AA056213170B14
-- expected_values:
-    SUBARU_MONITOR_4: 1588.5
-  response: 7AA0562131718D2
-- expected_values:
-    SUBARU_MONITOR_4: 1616.5
-  response: 7AA056213171942
-- expected_values:
-    SUBARU_MONITOR_4: 1621.5
-  response: 7AA056213171956
-- expected_values:
-    SUBARU_MONITOR_4: 1631
-  response: 7AA05621317197C
+    SUBARU_MONITOR_4: 1914.75
+  response: 7AA056213171DEB
