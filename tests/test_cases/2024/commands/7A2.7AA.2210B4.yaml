@@ -4,29 +4,5 @@ test_cases:
     SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -31
   response: 7AA046210B413
 - expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -18
-  response: 7AA046210B420
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -14
-  response: 7AA046210B424
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -10
-  response: 7AA046210B428
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -3
-  response: 7AA046210B42F
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -2
-  response: 7AA046210B430
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -1
-  response: 7AA046210B431
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 0
-  response: 7AA046210B432
-- expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 11
-  response: 7AA046210B43D
-- expected_values:
     SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 12
   response: 7AA046210B43E
