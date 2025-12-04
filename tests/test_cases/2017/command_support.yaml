@@ -98,4 +98,4 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
 unsupported_commands_by_ecu:
   "7E0":
-  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V2
+  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI
