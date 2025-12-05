@@ -4,6 +4,9 @@ test_cases:
     SUBARU_LOCK_UP_DUTY_RATIO: 0
   response: 7AB046210C800
 - expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 14.5
+  response: 7AB046210C81D
+- expected_values:
     SUBARU_LOCK_UP_DUTY_RATIO: 38.5
   response: 7AB046210C84D
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     SUBARU_LOCK_UP_DUTY_RATIO: 44.5
   response: 7AB046210C859
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 51.5
+  response: 7AB046210C867
 - expected_values:
     SUBARU_LOCK_UP_DUTY_RATIO: 60
   response: 7AB046210C878
