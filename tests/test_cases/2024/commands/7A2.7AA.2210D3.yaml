@@ -7,6 +7,9 @@ test_cases:
     SUBARU_EWG_VALVE_REQUEST_POSITION: 3.70504
   response: 7AA056210D357B6
 - expected_values:
+    SUBARU_EWG_VALVE_REQUEST_POSITION: 7.97208
+  response: 7AA056210D37305
+- expected_values:
     SUBARU_EWG_VALVE_REQUEST_POSITION: 8.30411
   response: 7AA056210D37525
 - expected_values:
