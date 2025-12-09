@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.2210DE
 test_cases:
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -28.656
-  response: 7AA046210DE5B
+    SUBARU_THROTTLE_MOTOR_DUTY: -29.44
+  response: 7AA046210DE5A
 - expected_values:
     SUBARU_THROTTLE_MOTOR_DUTY: 30.928
   response: 7AA046210DEA7
