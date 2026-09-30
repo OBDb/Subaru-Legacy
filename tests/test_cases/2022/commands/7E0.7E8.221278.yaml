@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221278
+test_cases:
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 0.66
+  response: '7E80462127821'
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 0.94
+  response: 7E8046212782F
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.18
+  response: 7E8046212783B
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.2
+  response: 7E8046212783C
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.3
+  response: '7E80462127841'
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.34
+  response: '7E80462127843'
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.36
+  response: '7E80462127844'
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.38
+  response: '7E80462127845'
+- expected_values:
+    SUBARU_SUB_ACCEL_SENS: 1.56
+  response: 7E8046212784E
