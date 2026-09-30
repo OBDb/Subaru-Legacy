@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221352
+test_cases:
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 34.5098
+  response: '7E80462135258'
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 35.29412
+  response: 7E8046213525A
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 36.47059
+  response: 7E8046213525D
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 37.2549
+  response: 7E8046213525F
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 50.19608
+  response: '7E80462135280'
+- expected_values:
+    SUBARU_SPLIT_RAT_FUEL_INJ_1: 100
+  response: 7E804621352FF

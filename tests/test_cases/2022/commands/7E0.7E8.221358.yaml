@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221358
+test_cases:
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0
+  response: '7E8056213580000'
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0.776
+  response: 7E80562135800C2
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0.808
+  response: 7E80562135800CA
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0.832
+  response: 7E80562135800D0
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0.884
+  response: 7E80562135800DD
+- expected_values:
+    SUBARU_DIRECT_FUEL_INJ_TIME_2: 0.896
+  response: 7E80562135800E0

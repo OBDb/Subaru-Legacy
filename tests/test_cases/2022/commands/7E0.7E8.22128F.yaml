@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22128F
+test_cases:
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -20
+  response: 7E80462128F1E
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -19
+  response: 7E80462128F1F
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -15
+  response: 7E80462128F23
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -10
+  response: 7E80462128F28
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -9
+  response: 7E80462128F29
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -2
+  response: 7E80462128F30
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: 0
+  response: 7E80462128F32
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: 4
+  response: 7E80462128F36
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: 5
+  response: 7E80462128F37
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: 7
+  response: 7E80462128F39
