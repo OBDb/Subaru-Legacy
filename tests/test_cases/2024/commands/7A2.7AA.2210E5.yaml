@@ -1,14 +1,14 @@
 command_id: 7A2.7AA.2210E5
 test_cases:
 - expected_values:
-    SUBARU_ODO_7A2_10E5: 17642
+    LEGACY_ODO_7A2_10E5: 17642
   response: 7AA056210E52275
 - expected_values:
-    SUBARU_ODO_7A2_10E5: 22008
+    LEGACY_ODO_7A2_10E5: 22008
   response: 7AA056210E52AFC
 - expected_values:
-    SUBARU_ODO_7A2_10E5: 22044
+    LEGACY_ODO_7A2_10E5: 22044
   response: 7AA056210E52B0E
 - expected_values:
-    SUBARU_ODO_7A2_10E5: 22754
+    LEGACY_ODO_7A2_10E5: 22754
   response: 7AA056210E52C71

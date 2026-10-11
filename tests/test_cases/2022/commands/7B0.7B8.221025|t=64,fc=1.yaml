@@ -1,11 +1,11 @@
 command_id: 7B0.7B8.221025|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_FL_VSS: 0
+    LEGACY_FL_VSS: 0
   response: 7B8056210250000
 - expected_values:
-    SUBARU_FL_VSS: 763
+    LEGACY_FL_VSS: 42.91875
   response: 7B80562102502FB
 - expected_values:
-    SUBARU_FL_VSS: 2681
+    LEGACY_FL_VSS: 150.80625
   response: 7B8056210250A79
