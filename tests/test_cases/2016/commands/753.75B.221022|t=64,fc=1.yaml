@@ -1,32 +1,38 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_TP_FL: 0
-    SUBARU_TP_FR: 0
-    SUBARU_TP_RL: 0
-    SUBARU_TP_RR: 0
+    LEGACY_TP_FL: null
+    LEGACY_TP_FR: null
+    LEGACY_TP_RL: null
+    LEGACY_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
-    SUBARU_TP_FL: 32.2
-    SUBARU_TP_FR: 36.6
-    SUBARU_TP_RL: 39.4
-    SUBARU_TP_RR: 37.4
+    LEGACY_TP_FL: 27.6
+  response: 75B076210220000008A
+- expected_values:
+    LEGACY_TP_FR: 28.2
+  response: 75B0762102200008D00
+- expected_values:
+    LEGACY_TP_FL: 39.4
+    LEGACY_TP_FR: 37.4
+    LEGACY_TP_RL: 32.2
+    LEGACY_TP_RR: 36.6
   response: 75B07621022A1B7BBC5
 - expected_values:
-    SUBARU_TP_FL: 35.8
-    SUBARU_TP_FR: 37.8
-    SUBARU_TP_RL: 37.6
-    SUBARU_TP_RR: 39
+    LEGACY_TP_FL: 37.6
+    LEGACY_TP_FR: 39
+    LEGACY_TP_RL: 35.8
+    LEGACY_TP_RR: 37.8
   response: 75B07621022B3BDC3BC
 - expected_values:
-    SUBARU_TP_FL: 36.4
-    SUBARU_TP_FR: 38
-    SUBARU_TP_RL: 37.8
-    SUBARU_TP_RR: 38.6
+    LEGACY_TP_FL: 37.8
+    LEGACY_TP_FR: 38.6
+    LEGACY_TP_RL: 36.4
+    LEGACY_TP_RR: 38
   response: 75B07621022B6BEC1BD
 - expected_values:
-    SUBARU_TP_FL: 37.6
-    SUBARU_TP_FR: 35.8
-    SUBARU_TP_RL: 38.4
-    SUBARU_TP_RR: 36.8
+    LEGACY_TP_FL: 38.4
+    LEGACY_TP_FR: 36.8
+    LEGACY_TP_RL: 37.6
+    LEGACY_TP_RR: 35.8
   response: 75B07621022BCB3B8C0

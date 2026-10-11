@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2210E5|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_ODO: 69646
+    LEGACY_ODO: 69646
   response: 7E8056210E58807
 - expected_values:
-    SUBARU_ODO: 70142
+    LEGACY_ODO: 70142
   response: 7E8056210E588FF
 - expected_values:
-    SUBARU_ODO: 70144
+    LEGACY_ODO: 70144
   response: 7E8056210E58900
 - expected_values:
-    SUBARU_ODO: 131070
+    LEGACY_ODO: 131070
   response: 7E8056210E5FFFF

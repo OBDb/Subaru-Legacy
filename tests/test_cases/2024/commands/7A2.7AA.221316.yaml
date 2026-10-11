@@ -1,11 +1,11 @@
 command_id: 7A2.7AA.221316
 test_cases:
 - expected_values:
-    SUBARU_MONITOR_3: 0
+    LEGACY_MONITOR_3: 0
   response: 7AA056213160000
 - expected_values:
-    SUBARU_MONITOR_3: 703.75
+    LEGACY_MONITOR_3: 703.75
   response: 7AA056213160AFF
 - expected_values:
-    SUBARU_MONITOR_3: 1984
+    LEGACY_MONITOR_3: 1984
   response: 7AA056213161F00
