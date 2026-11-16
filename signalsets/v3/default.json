@@ -115,7 +115,7 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10E3"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
   "signals": [
-    {"id": "LEGACY_CRUISE_VSS_T", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise speed, set"}
+    {"id": "LEGACY_CRUISE_VSS_T", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise speed, set", "suggestedMetric": "cruiseSetSpeed"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10E5"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
   "signals": [
